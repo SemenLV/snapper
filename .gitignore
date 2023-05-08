@@ -1,0 +1,9 @@
+﻿bin
+output
+!output/.keep
+input
+!input/.keep
+bin
+obj
+*.user
+*.suo
